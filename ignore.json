@@ -76,5 +76,8 @@
   ],
   "Cache files for the editor to use": [
     "DerivedDataCache/*"
+  ],
+  "Custom Category": [
+    "New Entry"
   ]
 }
